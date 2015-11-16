@@ -50,7 +50,7 @@ public class MySuite {}
 ```
 
 ## Enable ansi colors
-To enable the ansi colors like in the screenshot above you need to add the `-Denable.ansi=true` property when launching your test suite. To get thes enice ansi colors within Eclipse you can install the nice [ansi-econsole](https://github.com/mihnita/ansi-econsole).
+To enable the ansi colors like in the screenshot above you need to add the `-Denable.ansi=true` property when launching your test suite. To get these nice ansi colors within Eclipse you can install the nice [ansi-econsole](https://github.com/mihnita/ansi-econsole).
 
 ## License
 The code is published under the terms of the MIT License.
