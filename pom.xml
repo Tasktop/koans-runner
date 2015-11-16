@@ -3,7 +3,7 @@
 
 	<groupId>com.tasktop.koans</groupId>
 	<artifactId>koans-runner</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 
 	<name>JUnit koans-runner</name>
 	<description>JUnit Extension to learn through unit tests</description>
@@ -15,7 +15,7 @@
 	<scm>
 		<url>git://github.com/Tasktop/koans-runner.git</url>
 		<connection>scm:git:git@github.com:Tasktop/koans-runner.git</connection>
-	  <tag>v0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 	<issueManagement>
 		<system>GitHub Issues</system>
