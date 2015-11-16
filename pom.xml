@@ -1,11 +1,39 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
+	
 	<groupId>com.tasktop.koans</groupId>
 	<artifactId>koans-runner</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>JUnit koans</name>
+
+	<name>JUnit koans-runner</name>
 	<description>JUnit Extension to learn through unit tests</description>
+	<organization>
+		<name>Tasktop Technologies</name>
+		<url>http://tasktop.com/</url>
+	</organization>
+	<url>https://github.com/Tasktop/koans-runner</url>
+	<scm>
+		<url>git://github.com/Tasktop/koans-runner.git</url>
+		<connection>scm:git:git://github.com/Tasktop/koans-runner.git</connection>
+	</scm>
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/Tasktop/koans-runner/issues</url>
+	</issueManagement>
+	<licenses>
+		<license>
+			<name>The MIT License (MIT)</name>
+			<url>https://github.com/Tasktop/koans-runner/blob/master/LICENSE</url>
+		</license>
+	</licenses>
+	<developers>
+		<developer>
+			<name>Holger Staudacher</name>
+			<organization>Tasktop Technologies</organization>
+		</developer>
+	</developers>
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
