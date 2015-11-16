@@ -15,7 +15,7 @@
 	<url>https://github.com/Tasktop/koans-runner</url>
 	<scm>
 		<url>git://github.com/Tasktop/koans-runner.git</url>
-		<connection>scm:git:git://github.com/Tasktop/koans-runner.git</connection>
+		<connection>scm:git:git@github.com:Tasktop/koans-runner.git</connection>
 	</scm>
 	<issueManagement>
 		<system>GitHub Issues</system>
