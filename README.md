@@ -33,7 +33,7 @@ public class MyTest {
 	
 	@Test
 	public void notSoEasySecondTest() {
-		assertTrue(false); // remove this line to make the test green
+		assertTrue(false); // figure out how to pass the assertion
 	}
 
 }
