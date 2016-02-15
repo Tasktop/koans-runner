@@ -23,8 +23,8 @@
 	</issueManagement>
 	<licenses>
 		<license>
-			<name>The MIT License (MIT)</name>
-			<url>https://github.com/Tasktop/koans-runner/blob/master/LICENSE</url>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0</url>
 		</license>
 	</licenses>
 	<developers>
